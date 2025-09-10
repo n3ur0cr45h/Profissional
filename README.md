@@ -1,5 +1,5 @@
 <div align="Center"> 
-<br>
+  
 
 <h4>
 
@@ -17,7 +17,7 @@
 <details>
   <summary><b> 1. Leitura Técnica</b></summary>
 <div align="Left"> 
-<br>
+  
 
 |ID     |Tópico   |Título                              | 
 | ------|-------- |------------------------------------|
