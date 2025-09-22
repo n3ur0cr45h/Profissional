@@ -29,7 +29,9 @@
 | L1.6  | Observabilidade | <a href="https://www.amazon.in/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449">Observability Engineering</a> |
 | L1.7  | Observabilidade | <a href="https://www.amazon.com.br/O11Y-Explained-Observability-Book-English-ebook/dp/B0CRJ6T9BL">O11Y Explained</a> |
 | L1.8  | Documentação | <a href="https://www.amazon.com/Technical-Writing-Scientists-Nontechnical-Professionals/dp/1138628107">Technical Writing: A Practical Guide for Engineers...</a> |
-| L1.9  | Documentação | <a href="https://www.amazon.com/Technical-Writing-Process-five-step-procedures/dp/0994169310">Technical Writing Process</a> |
+| L1.9  | Documentação | <a href="https://www.amazon.com/Technical-Writing-Process-five-step-procedures/dp/0994169310">Technical Writing Process</a> |  
+| L1.10 | Kubernetes   | <a href="https://www.amazon.com/dp/1617299324/ref=sspa_dk_detail_3?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw">Platform Engineering on Kubernetes</a> |
+
 
 </div> 
 </details>
