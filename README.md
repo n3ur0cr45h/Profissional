@@ -36,7 +36,8 @@
 | L1.13 | Documentação | <a href="https://www.amazon.com/Technical-Writing-Process-five-step-procedures/dp/0994169310">Technical Writing Process</a> |  
 | L1.14 | Kubernetes   | <a href="https://www.amazon.com/dp/1617299324/ref=sspa_dk_detail_3?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw">Platform Engineering on Kubernetes</a> |
 | L1.15 | Kubernetes   | <a href="https://www.amazon.com.br/Designing-Distributed-Systems-Paradigms-Kubernetes/dp/1098156358/ref=sr_1_1?sr=8-1">Designing Distributed Systems</a> |
-| L1.16 | Pipeline     | <a href="https://www.amazon.com.br/Pipeline-Docker-Jenkins-Pipelines-Effectively-ebook/dp/B0BS6BZP8Q/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-6">CI/CD Pipeline with Docker and Jenkins</a> |
+| L1.16 | Kubernetes   | <a href="https://www.amazon.com.br/Operating-Openshift-Approach-Managing-Infrastructure/dp/1098106393/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1">Operating OpenShift</a> |
+| L1.17 | Pipeline     | <a href="https://www.amazon.com.br/Pipeline-Docker-Jenkins-Pipelines-Effectively-ebook/dp/B0BS6BZP8Q/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-6">CI/CD Pipeline with Docker and Jenkins</a> |
 
 
 </div> 
