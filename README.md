@@ -38,7 +38,9 @@
 | L1.15 | Docker       | <a href="https://www.amazon.com.br/Docker-Deep-English-Nigel-Poulton-ebook/dp/B01LXWQUFF/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1">Docker Deep Dive</a> |
 | L1.16 | Kubernetes   | <a href="https://www.amazon.com.br/Designing-Distributed-Systems-Paradigms-Kubernetes/dp/1098156358/ref=sr_1_1?sr=8-1">Designing Distributed Systems</a> |
 | L1.17 | Kubernetes   | <a href="https://www.amazon.com.br/Operating-Openshift-Approach-Managing-Infrastructure/dp/1098106393/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1">Operating OpenShift</a> |
-| L1.18 | Pipeline     | <a href="https://www.amazon.com.br/Pipeline-Docker-Jenkins-Pipelines-Effectively-ebook/dp/B0BS6BZP8Q/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-6">CI/CD Pipeline with Docker and Jenkins</a> |
+| L1.18 | Kubernetes   | <a href="https://www.amazon.com.br/Quick-Start-Kubernetes-English-Poulton-ebook/dp/B08T21NW4Z?ref_=ast_author_dp">Quick Start Kubernetes</a> |
+| L1.19 | Kubernetes   | <a href="https://www.amazon.com.br/Kubernetes-Book-Version-November-English-ebook/dp/B072TS9ZQZ?ref_=ast_author_dp">The Kubernetes Book</a> |
+| L1.20 | Pipeline     | <a href="https://www.amazon.com.br/Pipeline-Docker-Jenkins-Pipelines-Effectively-ebook/dp/B0BS6BZP8Q/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-6">CI/CD Pipeline with Docker and Jenkins</a> |
 
 
 </div> 
