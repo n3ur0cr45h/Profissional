@@ -34,10 +34,11 @@
 | L1.11 | Observabilidade | <a href="https://www.amazon.com.br/Cloud-Observability-Azure-Monitor-infrastructure/dp/B0DJ9447G1/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1">Cloud Observability with Azure Monitor</a> |
 | L1.12 | Documentação | <a href="https://www.amazon.com/Technical-Writing-Scientists-Nontechnical-Professionals/dp/1138628107">Technical Writing: A Practical Guide for Engineers...</a> |
 | L1.13 | Documentação | <a href="https://www.amazon.com/Technical-Writing-Process-five-step-procedures/dp/0994169310">Technical Writing Process</a> |  
-| L1.14 | Kubernetes   | <a href="https://www.amazon.com/dp/1617299324/ref=sspa_dk_detail_3?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw">Platform Engineering on Kubernetes</a> |
-| L1.15 | Kubernetes   | <a href="https://www.amazon.com.br/Designing-Distributed-Systems-Paradigms-Kubernetes/dp/1098156358/ref=sr_1_1?sr=8-1">Designing Distributed Systems</a> |
-| L1.16 | Kubernetes   | <a href="https://www.amazon.com.br/Operating-Openshift-Approach-Managing-Infrastructure/dp/1098106393/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1">Operating OpenShift</a> |
-| L1.17 | Pipeline     | <a href="https://www.amazon.com.br/Pipeline-Docker-Jenkins-Pipelines-Effectively-ebook/dp/B0BS6BZP8Q/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-6">CI/CD Pipeline with Docker and Jenkins</a> |
+| L1.14 | Documentação | <a href="https://www.amazon.com/Technical-Writing-Process-five-step-procedures/dp/0994169310">Technical Writing Process</a> |  
+| L1.15 | Docker       | <a href="https://www.amazon.com.br/Docker-Deep-English-Nigel-Poulton-ebook/dp/B01LXWQUFF/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1">Docker Deep Dive</a> |
+| L1.16 | Kubernetes   | <a href="https://www.amazon.com.br/Designing-Distributed-Systems-Paradigms-Kubernetes/dp/1098156358/ref=sr_1_1?sr=8-1">Designing Distributed Systems</a> |
+| L1.17 | Kubernetes   | <a href="https://www.amazon.com.br/Operating-Openshift-Approach-Managing-Infrastructure/dp/1098106393/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1">Operating OpenShift</a> |
+| L1.18 | Pipeline     | <a href="https://www.amazon.com.br/Pipeline-Docker-Jenkins-Pipelines-Effectively-ebook/dp/B0BS6BZP8Q/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-6">CI/CD Pipeline with Docker and Jenkins</a> |
 
 
 </div> 
